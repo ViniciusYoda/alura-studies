@@ -43,6 +43,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@types/uuid": "^9.0.4",
     "sass": "^1.64.1",
     "typescript-plugin-css-modules": "^5.0.1"
   }
